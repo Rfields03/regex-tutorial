@@ -66,5 +66,5 @@ Look ahead and look behinds allows how matches get handled when using regular ex
 
 Robert S Field
 ![Rfields03 Regex Assignment](https://github.com/Rfields03/regex-tutorial)
-![Rfields03](https://github.com/Rfields03)
+![Rfields03 GitHub](https://github.com/Rfields03)
 ![Rfields03 LinkedIn](https://www.linkedin.com/in/robertsfield/)
